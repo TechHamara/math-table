@@ -15,8 +15,8 @@ This component is developed by th using Fast.<br>A non-visible component for dis
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-03-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.8.0`
-
 <br>
+⬇️ Download [aix](https://github.com/TechHamara/math-table/blob/main/io.th.mathstable.mathstable.aix)
 
 <br><br>
 
