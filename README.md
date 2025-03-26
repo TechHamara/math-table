@@ -44,7 +44,8 @@ This component is developed by th using Fast.<br>A non-visible component for dis
 
 ## Demo Blocks
 
-![blocks](https://github.com/user-attachments/assets/ef3885f6-8bc6-46b6-aec1-d44566863d7d)
+![Maths_Blocks_blocks.png](https://github.com/user-attachments/assets/a95ec860-3b18-4a17-895f-cb455f0c7764)
+
 
 
 ## Output
@@ -60,6 +61,8 @@ This component is developed by th using Fast.<br>A non-visible component for dis
 ![Screenshot_2025-03-26-06-09-25-989_appinventor.ai_Techhamara91.math_table.jpg](https://github.com/user-attachments/assets/b7823192-b247-4f88-82af-c7d37a4cb329)
 
 <br>
+
+![51b771fa-7185-44b7-bda1-3ddb9fa74a6d.gif](https://github.com/user-attachments/assets/4df2114f-f577-4543-8645-7f875a753372)
 
 ![a039c129-db4a-4ad7-86c0-2d3e355e2f9a.gif](https://github.com/user-attachments/assets/322d23d2-3ce1-42a7-9278-2bc0bcca6270)
 
