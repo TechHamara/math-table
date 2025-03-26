@@ -59,6 +59,14 @@ This component is developed by th using Fast.<br>A non-visible component for dis
 
 ![Screenshot_2025-03-26-06-09-25-989_appinventor.ai_Techhamara91.math_table.jpg](https://github.com/user-attachments/assets/b7823192-b247-4f88-82af-c7d37a4cb329)
 
+<br>
+![a039c129-db4a-4ad7-86c0-2d3e355e2f9a.gif](https://github.com/user-attachments/assets/322d23d2-3ce1-42a7-9278-2bc0bcca6270)
+
+![51b771fa-7185-44b7-bda1-3ddb9fa74a6d.gif](https://github.com/user-attachments/assets/8b20076d-6d3a-402d-97e5-80a4a1c138ae)
+
+![c4d4f38a-e76b-4098-b3ff-79f6b2dbb4c3.gif](https://github.com/user-attachments/assets/57d06168-9839-4944-b012-4e62b0d1290d)
+
+
 
 <br><br>
 
